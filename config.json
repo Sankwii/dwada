@@ -1,0 +1,35 @@
+{
+  "token": "",
+  "prefix": ".",
+
+  "guildId": "739044576760823838",
+  "ownerId": "1314532829152940034",
+
+  "wlGive": true,
+  "adminBypass": false,
+  "logChannelId": "",
+
+  "antinuke": {
+    "enabled": true,
+    "defaultLimit": 3,
+    "snapshotIntervalMinutes": 1
+  },
+
+  "access": {
+    "rape": ["semi", "ceo"],
+    "aban": ["semi", "ceo"],
+    "dope": ["semi", "ceo"],
+    "wl": ["ceo"],
+    "limit": ["ceo"],
+    "lvl": ["ceo"],
+    "blacklist": ["semi"],
+    "unblacklist": ["semi"],
+    "unrape": ["ceo"],
+    "unaban": ["ceo"],
+    "undope": ["ceo"],
+    "unwl": ["ceo"],
+    "info": ["low"],
+    "list": ["low"],
+    "help": ["low"]
+  }
+}
